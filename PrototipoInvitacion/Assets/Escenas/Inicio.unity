@@ -319,6 +319,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 881493811}
+  - component: {fileID: 881493810}
   m_Layer: 0
   m_Name: Scripts
   m_TagString: Untagged
@@ -326,6 +327,20 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &881493810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 881493809}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16655c01aaa8f844ca632fe2235ab679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mTrackableBehaviour: {fileID: 1206501493}
+  mallaCubo: {fileID: 2013892215}
+  colorCubo: {r: 0, g: 0, b: 0, a: 0}
 --- !u!4 &881493811
 Transform:
   m_ObjectHideFlags: 0
@@ -512,6 +527,7 @@ GameObject:
   - component: {fileID: 2013892216}
   - component: {fileID: 2013892215}
   - component: {fileID: 2013892218}
+  - component: {fileID: 2013892219}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -599,3 +615,16 @@ MonoBehaviour:
   mTrackableBehaviour: {fileID: 1206501493}
   mallaCubo: {fileID: 2013892215}
   colorCubo: {r: 0.11724138, g: 0, b: 1, a: 1}
+--- !u!114 &2013892219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2013892213}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1862395651, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Delegates: []
+  delegates: []

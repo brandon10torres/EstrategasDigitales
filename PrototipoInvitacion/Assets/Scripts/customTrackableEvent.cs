@@ -52,6 +52,10 @@ public class customTrackableEvent : MonoBehaviour,
     {
         print("Perdido");
     }
+    /*public void ClickLogo()
+    {
+        SceneManager.LoadScene("Invitacion");
+    }*/
     void OnMouseDown()
     {
         

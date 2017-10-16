@@ -29,13 +29,18 @@ public class UIControl : MonoBehaviour {
         clickCubo = !clickCubo;
         if(clickCubo)
         {
-            mallaCubo.material.color = colorClick;
             animCubo.SetTrigger("Acercado");
             animCubo.SetTrigger("Info");
+            print("sirve?");
         }
         else
         {
-            colorCubo = mallaCubo.material.color;
+            animCubo.SetTrigger("Inicio");
         }
+    }
+    public void ClickInicio()
+    {
+        animCubo.SetTrigger("Inicio");
+        print("sirve?");
     }
 }
