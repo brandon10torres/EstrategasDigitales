@@ -22,6 +22,7 @@ da1c580343244172d67fb46650bbc762 Assembly-CSharp.dll:.ScaleScrollEffect
 228303069e44eb1f7f68e3c0519e6057 Assembly-CSharp.dll:.GvrVideoPlayerTexture
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Vuforia.ComponentFactoryStarterBehaviour
 5e108c986d8d2bd9798f27a3e17126a7 Assembly-CSharp.dll:.TabGroup
+8a9e3a11c15512f0a830df328423010e Assembly-CSharp.dll:.AbrirUbicacion
 43086202e38c7e5578e3e9c98ce5148c Assembly-CSharp.dll:Vuforia.PropBehaviour
 a35dc9cca2faebc5f5f1aeb9e8e47bbe UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
@@ -153,6 +154,7 @@ defe4e78e0cd23e3d18b0230e7912bce Assembly-CSharp.dll:.GyroCamara
 092e1c07b3ea0b39f94c7cd7daac505b Assembly-CSharp.dll:Vuforia.MultiTargetBehaviour
 66ee6ce0968b1fa679c5c06187b8e23f Assembly-CSharp.dll:Vuforia.VuforiaBehaviour
 3d1b89310e77c34bc0c8d7132231345c Assembly-CSharp.dll:Vuforia.WireframeBehaviour
+2cc776caeda03dbd9882a0399ab9a760 Assembly-CSharp.dll:.CerrarMesa
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.DistortionRenderingBehaviour
 66ee6ce0968b1fa679c5c06187b8e23f Vuforia.UnityExtensions.dll:Vuforia.VuforiaAbstractBehaviour
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.VuforiaDeinitBehaviour
@@ -168,8 +170,10 @@ defe4e78e0cd23e3d18b0230e7912bce Assembly-CSharp.dll:.GyroCamara
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 19fc27323532d4ef5ff7bd1ed99e59f3 Assembly-CSharp.dll:.GvrTrackedController
+8a9e3a11c15512f0a830df328423010e Assembly-CSharp.dll:.CerrarUbicacion
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Vuforia.HideExcessAreaBehaviour
 d41e856001c43524a7a52471c8bf3b63 Assembly-CSharp.dll:.GvrLaserPointer
+a38eb6284118992ab8a11d37c4096c56 Assembly-CSharp.dll:.AbrirRegistro
 387ef655a40a5a09b4b289e4961f5583 Assembly-CSharp.dll:Vuforia.CylinderTargetBehaviour
 67b48974ce9eba2f5f42615d194258b7 Assembly-CSharp.dll:Vuforia.MaskOutBehaviour
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
@@ -189,6 +193,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Vuforia.DefaultTrackableEventHandler
 1c952386af3ef6bd3c90a34c4fd12f6b Assembly-CSharp.dll:.Teleport
 f67e4dccde37b3c42d067b6bf680c32e Assembly-CSharp.dll:Vuforia.TextRecoBehaviour
+f8eff814cbac8dc8eaa524614c67183d Assembly-CSharp.dll:.CerrarFecha
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GvrControllerTooltipsSimple
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 2a56361227def9f56c2cf57a88b32f4d UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
@@ -202,6 +207,7 @@ e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEng
 15bea26698002c6c4a3087131232ce5c Assembly-CSharp.dll:Vuforia.WordBehaviour
 3ad83d9b16897b0fec4f8b42b7498cdc Assembly-CSharp.dll:Vuforia.ObjectTargetBehaviour
 145a2fa61e986ff4b79d8ce7959fc905 Assembly-CSharp.dll:.GvrRecenterOnlyController
+2cc776caeda03dbd9882a0399ab9a760 Assembly-CSharp.dll:.AbrirMesa
 773659ee139465de815012b250038305 Assembly-CSharp.dll:.VideoPlayerReference
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Gvr.Internal.EmulatorManager
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
@@ -216,6 +222,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 213976e6ef69ef51b81ef082c04b8edb Assembly-CSharp.dll:.GvrArmModelOffsets
 8dce9c09170584541629ef1dcf0f1074 Assembly-CSharp.dll:.GvrLaserVisual
 225ea67d6045e7fb87f2a8bda413026c Assembly-CSharp.dll:.GvrControllerVisual
+f8eff814cbac8dc8eaa524614c67183d Assembly-CSharp.dll:.AbrirFecha
 f12b46990184302ae413ff95cea31566 Assembly-CSharp.dll:.FadeScrollEffect
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ScrubberEvents
 69d7d01d14b2cb1bf7ea22ff94f3abfc Assembly-CSharp.dll:Vuforia.DefaultSmartTerrainEventHandler
@@ -235,6 +242,7 @@ c5839a4d51b9b5220e5cc04a930d6b3f Assembly-CSharp.dll:.UIFadeTransition
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Gvr.Internal.EmulatorClientSocket
 7d05c1a36ca8db05546065b852216990 Assembly-CSharp.dll:.GvrControllerInput
 e399fc54e753911801f12ac57c8fc414 Assembly-CSharp.dll:.GVRDemoManager
+a38eb6284118992ab8a11d37c4096c56 Assembly-CSharp.dll:.CerrarRegistro
 f1dced04f168103741226c31e59bf1c5 Assembly-CSharp.dll:.Tab
 d885ad79a6ef5bfe2ce10637aac0b8a0 Assembly-CSharp.dll:GVRSample.AutoPlayVideo
 7cac06ac0eaa7257b831c29e4455ce1b Assembly-CSharp.dll:Vuforia.VuforiaConfiguration

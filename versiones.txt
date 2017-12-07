@@ -1,4 +1,5 @@
 1.- idea + giroscopio
 2.- animaciones + camara background
 3.- camara background funcional
-4.- 
+4.- casi final
+Final
