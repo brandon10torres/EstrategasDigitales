@@ -1,11 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GyroscopeInputToggle.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CerrarUbicacion.cs">
     <Files>
+      <File FileName="Assets\Scripts\AbrirUbicacion.cs" Line="21" Column="37" />
       <File FileName="Assets\Scripts\CamAsBack.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\customTrackableEvent.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\GyroscopeInputToggle.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\GyroCamara.cs" Line="17" Column="9" />
+      <File FileName="Assets\Scripts\GyroCamara.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CerrarUbicacion.cs" Line="22" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

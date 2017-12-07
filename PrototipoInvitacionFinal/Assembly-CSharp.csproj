@@ -167,7 +167,15 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrMathHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+     <Compile Include="Assets\Scripts\AbrirFecha.cs" />
+     <Compile Include="Assets\Scripts\AbrirMesa.cs" />
+     <Compile Include="Assets\Scripts\AbrirRegistro.cs" />
+     <Compile Include="Assets\Scripts\AbrirUbicacion.cs" />
      <Compile Include="Assets\Scripts\CamAsBack.cs" />
+     <Compile Include="Assets\Scripts\CerrarFecha.cs" />
+     <Compile Include="Assets\Scripts\CerrarMesa.cs" />
+     <Compile Include="Assets\Scripts\CerrarRegistro.cs" />
+     <Compile Include="Assets\Scripts\CerrarUbicacion.cs" />
      <Compile Include="Assets\Scripts\customTrackableEvent.cs" />
      <Compile Include="Assets\Scripts\GyroCamara.cs" />
      <Compile Include="Assets\Scripts\GyroscopeInputToggle.cs" />
