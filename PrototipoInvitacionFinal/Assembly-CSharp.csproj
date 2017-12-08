@@ -168,9 +168,11 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
      <Compile Include="Assets\Scripts\AbrirFecha.cs" />
+     <Compile Include="Assets\Scripts\AbrirMaps.cs" />
      <Compile Include="Assets\Scripts\AbrirMesa.cs" />
      <Compile Include="Assets\Scripts\AbrirRegistro.cs" />
      <Compile Include="Assets\Scripts\AbrirUbicacion.cs" />
+     <Compile Include="Assets\Scripts\AbrirWaze.cs" />
      <Compile Include="Assets\Scripts\CamAsBack.cs" />
      <Compile Include="Assets\Scripts\CerrarFecha.cs" />
      <Compile Include="Assets\Scripts\CerrarMesa.cs" />

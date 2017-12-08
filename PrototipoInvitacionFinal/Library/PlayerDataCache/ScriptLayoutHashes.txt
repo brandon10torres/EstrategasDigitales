@@ -246,3 +246,5 @@ a38eb6284118992ab8a11d37c4096c56 Assembly-CSharp.dll:.CerrarRegistro
 f1dced04f168103741226c31e59bf1c5 Assembly-CSharp.dll:.Tab
 d885ad79a6ef5bfe2ce10637aac0b8a0 Assembly-CSharp.dll:GVRSample.AutoPlayVideo
 7cac06ac0eaa7257b831c29e4455ce1b Assembly-CSharp.dll:Vuforia.VuforiaConfiguration
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.AbrirWaze
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.AbrirMaps

@@ -170,6 +170,8 @@
      <Compile Include="Assets\Scripts\AbrirUbicacion.cs" />
      <Compile Include="Assets\Scripts\CamAsBack.cs" />
      <Compile Include="Assets\Scripts\CerrarUbicacion.cs" />
+     <Compile Include="Assets\Scripts\ControlBD.cs" />
+     <Compile Include="Assets\Scripts\ControlRegistro.cs" />
      <Compile Include="Assets\Scripts\customTrackableEvent.cs" />
      <Compile Include="Assets\Scripts\GyroCamara.cs" />
      <Compile Include="Assets\Scripts\GyroscopeInputToggle.cs" />
