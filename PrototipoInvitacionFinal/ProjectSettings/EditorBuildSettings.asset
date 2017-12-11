@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Escenas/Invitacion.unity
     guid: 04f294dd8536a314da9f0012c1074f1f
+  - enabled: 1
+    path: Assets/Escenas/Registro.unity
+    guid: e2b2474ddf000c34f9ee94615e06bf63

@@ -1,17 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AbrirMaps.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ControlBD.cs">
     <Files>
-      <File FileName="Assets\Scripts\AbrirWaze.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\AbrirFecha.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\CerrarFecha.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\AbrirMesa.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\CerrarMesa.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\AbrirUbicacion.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\CerrarUbicacion.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\AbrirRegistro.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\CerrarRegistro.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\AbrirMaps.cs" Line="19" Column="211" />
+      <File FileName="Assets\Scripts\ControlRegistro.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlBD.cs" Line="7" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

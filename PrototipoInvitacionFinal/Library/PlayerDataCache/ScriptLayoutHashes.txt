@@ -151,6 +151,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 64e53bc128400f563a86ade43816f1c3 Assembly-CSharp.dll:.FloatTile
 defe4e78e0cd23e3d18b0230e7912bce Assembly-CSharp.dll:.GyroCamara
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Vuforia.WireframeTrackableEventHandler
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.AbrirWaze
 092e1c07b3ea0b39f94c7cd7daac505b Assembly-CSharp.dll:Vuforia.MultiTargetBehaviour
 66ee6ce0968b1fa679c5c06187b8e23f Assembly-CSharp.dll:Vuforia.VuforiaBehaviour
 3d1b89310e77c34bc0c8d7132231345c Assembly-CSharp.dll:Vuforia.WireframeBehaviour
@@ -240,11 +241,13 @@ c5839a4d51b9b5220e5cc04a930d6b3f Assembly-CSharp.dll:.UIFadeTransition
 0993c6cb8df0e25910c3ca6e47a7f2de Assembly-CSharp.dll:.MenuHandler
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GameObjectPoolController
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Gvr.Internal.EmulatorClientSocket
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.AbrirMaps
 7d05c1a36ca8db05546065b852216990 Assembly-CSharp.dll:.GvrControllerInput
 e399fc54e753911801f12ac57c8fc414 Assembly-CSharp.dll:.GVRDemoManager
 a38eb6284118992ab8a11d37c4096c56 Assembly-CSharp.dll:.CerrarRegistro
 f1dced04f168103741226c31e59bf1c5 Assembly-CSharp.dll:.Tab
 d885ad79a6ef5bfe2ce10637aac0b8a0 Assembly-CSharp.dll:GVRSample.AutoPlayVideo
 7cac06ac0eaa7257b831c29e4455ce1b Assembly-CSharp.dll:Vuforia.VuforiaConfiguration
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.AbrirWaze
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.AbrirMaps
+244fc395e2381d6b9b083a1eb2765430 Assembly-CSharp.dll:.ControlRegistro
+abd124d20e58b3dc9dcb7eabc09aa3b9 Assembly-CSharp.dll:.ControlBD
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.AbrirForm
