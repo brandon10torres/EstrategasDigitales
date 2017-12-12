@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class ControlBD : MonoBehaviour 
 {
-	private string URL = "http://localhost/invitaciones/index.php";
-	//private string URL = "https://estrategasdigitales.com/InvitacionED/index.php";
+	//private string URL = "http://localhost/invitaciones/index.php";
+	private string URL = "http://invitacioned.000webhostapp.com";
 	public GameObject respuestaGO;
 
 	// Use this for initialization
